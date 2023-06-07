@@ -59,13 +59,13 @@ table{
 	max-width: 5000px;
 }
 
-#idk {
+#ulID {
 	display:grid;
 	grid-template-columns: auto auto auto;
 	justify-content: space-evenly;
 }
 
-#idk > li{
+#ulID > li{
 	list-style: none;
 }
 
